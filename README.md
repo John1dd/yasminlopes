@@ -19,7 +19,6 @@ Amo a tecnologia, e o Design. Unindo os dois, crio ideias e desenvolvo soluçõe
   <img align="center" alt="Yas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Yas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Yas-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/75736181?v=4">
 </div>
   
   ##
