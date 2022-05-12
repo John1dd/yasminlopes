@@ -1,4 +1,11 @@
 ### Olá! Me chamo Yasmin 👋
+Amo a tecnologia, e o Design. Unindo os dois, crio ideias e desenvolvo soluções usando minha criatividade e meu conhecimento.
+
+💻 Front-end Developer / Graphic/Web Designer
+
+🐍 Estudando cada vez mais o Python, e agora em específico, o Django 
+
+🛠 Meu foco atualmente está sendo em Desenvolvimento Web Full-stack
 
 
   <a href="https://github.com/yasminlopes">
@@ -19,6 +26,7 @@
   ##
  
   <a href="https://instagram.com/yaslpx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "be.net/yasmin-lopes"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href = "mailto:yasmin.lopesx27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yasmin-lopes-841b601a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
