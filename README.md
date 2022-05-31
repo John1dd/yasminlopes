@@ -3,8 +3,6 @@ Amo a tecnologia, e o Design. Unindo os dois, crio ideias e desenvolvo soluçõe
 
 💻 Front-end Developer / Graphic/Web Designer
 
-🐍 Estudando cada vez mais o Python, e agora em específico, o Django 
-
 🛠 Meu foco atualmente está sendo em Desenvolvimento Web Full-stack
 
 
