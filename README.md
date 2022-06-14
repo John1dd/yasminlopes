@@ -22,14 +22,6 @@ const yasminlopes = developer {
 ----
 ----
 
-## ⭐ Github 
-
-<div align="center">
-  <a href="https://github.com/yasminlopes">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=yasminlopes&theme=dracula&show_icons=true"/>
-
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminlopes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
   ![Snake animation](https://github.com/yasminlopes/yasminlopes/blob/output/github-contribution-grid-snake.svg)
  
