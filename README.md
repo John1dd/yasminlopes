@@ -13,6 +13,7 @@ const yasminlopes = developer {
     }
     links {
         instagram = "@yaslpx"
+        linkedin = "yasmin-lopes-841b601a1"
     }
 }
 };
