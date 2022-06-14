@@ -20,11 +20,6 @@ const yasminlopes = developer {
 ```
 
 ----
-  
-[linkedin]: https://www.linkedin.com/in/yasmin-lopes-841b601a1
-
-👔 [linkedin][linkedin]
-
 ----
 
 ## ⭐ Github 
