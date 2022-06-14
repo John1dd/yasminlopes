@@ -26,7 +26,7 @@ const yasminlopes = developer {
 
 ----
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Github 
 
 <div align="center">
   <a href="https://github.com/yasminlopes">
