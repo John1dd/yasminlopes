@@ -12,7 +12,6 @@ const yasminlopes = developer {
         area = "desenvolvimento web"
     }
     links {
-        instagram = "@yaslpx"
         linkedin = "yasmin-lopes-841b601a1"
     }
 }
