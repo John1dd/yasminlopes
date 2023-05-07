@@ -15,7 +15,7 @@ function dev(name, age, work) {
         this.work = work;
 }
 
-let yasminLopes = new dev('Yasmin Lopes', 21, 'Front-end Developer (Angular) and Art Director');
+let yasminLopes = new dev('Yasmin Lopes', 21, 'Front-end Developer (Angular)');
 console.log(yasminLopes);
 ```
   </div>
